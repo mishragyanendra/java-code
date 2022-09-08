@@ -9,5 +9,7 @@ class FruitSeller5 {
 		int total_l = (l * 100) / n;
 	
 		System.out.print("Fruit seller had " + total_l + " l");
+
 	}
+
 }
